@@ -23,6 +23,7 @@ Here's an example :
 ```yaml
 version: 1 # Optional, used for future retrocompatibility
 schema:
+  argProperty: args
   discriminant: kind
   kinds:
     text:
