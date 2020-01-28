@@ -23,5 +23,8 @@
     "jsonschema": "^1.2.5",
     "uuid": "^3.4.0",
     "ws": "^7.2.1"
+  },
+  "scripts": {
+    "test": "echo 'No test specified'"
   }
 }
