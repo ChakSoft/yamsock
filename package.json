@@ -4,6 +4,10 @@
   "description": "Highly customizable websocket library",
   "main": "lib/index.js",
   "author": "Michael Chacaton <mchacaton@chaksoft.eu>",
+  "repository": {
+    "url": "https://github.com/ChakSoft/yamsock.git",
+    "type": "git"
+  },
   "license": "GPL-3.0",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
