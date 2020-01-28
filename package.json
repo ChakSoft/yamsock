@@ -1,6 +1,6 @@
 {
   "name": "yamsock",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Highly customizable websocket library",
   "main": "lib/index.js",
   "author": "Michael Chacaton <mchacaton@chaksoft.eu>",
